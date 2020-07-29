@@ -6,11 +6,11 @@ I am a french web developper, I am passionate about coding and I love to develop
 
 I am currently (as of July 2020) looking for a full time position in Montréal as a full stack or front-end developer. My open work permit is already valid.
 
-Let's talk ! Contact me on [Linkedin](https://www.linkedin.com/)
+Let's talk ! Contact me on [Linkedin](https://www.linkedin.com/in/sylvainlaugier/)
 
 I've been coding for 5 years, including 2 as a professional developer.
 
-Want to see how I code ? Check my repo [chess-redux-immutable-react](https://github.com/Instant-Monkey/chess-redux-immutable-react/tree/master/src)
+Want to see how I code ? Check my repo [chess-redux-immutable-react](https://github.com/Instant-Monkey/chess-redux-immutable-react/tree/master)
 
 My default stack :
 
